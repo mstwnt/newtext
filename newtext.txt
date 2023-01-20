@@ -2,3 +2,5 @@ hello
 thank you
 care
 hi
+care 
+given
