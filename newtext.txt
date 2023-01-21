@@ -1,9 +1,4 @@
-hello
-thank you
-care
-hi
-care 
-given
+
 <!DOCTYPE html>
 <html>
 
